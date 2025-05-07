@@ -9,12 +9,15 @@
 
 
     
-<h2>Certifications</h2>
+<h2>📑 Certifications:</h2>
 
 - CompTia Security+ CE
 - [Google Cybersecurity](https://coursera.org/share/371c0b82107d3e009b9c4fe12f926e0e)
 - [Microsoft Azure Security Engineer Associate (AZ-500)](https://coursera.org/share/760fce40354d10595387a610e0596c59)
 - [Penetration Testing, Threat Hunting, and Cryptography](https://coursera.org/share/862550d1bdefcd56909bd6ea00e49e5f)
+- [Mastercard's Cybersecurity on Forage](https://www.theforage.com/simulations/mastercard/cybersecurity-t8ye)
+- [Telstra's Cybersecurity on Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/M6JGAwZ52SMusMEcK/RNhbu8QnDzthwynEf_M6JGAwZ52SMusMEcK_zyhy6SZaagNYDrvsK_1738091425985_completion_certificate.pdf)
+- [Datacom's Cybersecurity on Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/gCW7Xki5Y3vNpBmnn/yTszJTvkHFBH6zAn3_gCW7Xki5Y3vNpBmnn_zyhy6SZaagNYDrvsK_1738099544890_completion_certificate.pdf)
 
 
 
