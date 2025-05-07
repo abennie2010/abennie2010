@@ -3,18 +3,21 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/abennie2010/ActiveDirectoryLab/tree/main)
+  - [Implementing A SOC And Honeynet In Azure]
+  - [Secure Access With Azure Active Directory]
+  - [Perform Vulnerability Analysis And Penetration Testing/Secure Information Using Symmetric Encryption]
+
+
     
 <h2>Certifications</h2>
 
-- [Google Cybersecurity](https://coursera.org/share/371c0b82107d3e009b9c4fe12f926e0e)
 - CompTia Security+ CE
+- [Google Cybersecurity](https://coursera.org/share/371c0b82107d3e009b9c4fe12f926e0e)
+- [Microsoft Azure Security Engineer Associate (AZ-500)](https://coursera.org/share/760fce40354d10595387a610e0596c59)
+- [Penetration Testing, Threat Hunting, and Cryptography](https://coursera.org/share/862550d1bdefcd56909bd6ea00e49e5f)
 
 
-<h2>📺 Popular YouTube Videos</h2>
 
-- [Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
-<h2> 🤳 Connect with me:</h2>
 
 
 [<img align="left" alt="AndrewBennie | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
