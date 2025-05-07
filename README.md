@@ -2,10 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/abennie2010/ActiveDirectoryLab/tree/main)
   - [Implementing A SOC And Honeynet In Azure]
-  - [Secure Access With Azure Active Directory](https://github.com/abennie2010/ActiveDirectoryLab/tree/main)
-  - [Perform Vulnerability Analysis And Penetration Testing/Secure Information Using Symmetric Encryption](https://github.com/abennie2010/ActiveDirectoryLab/tree/main)
+  - [Secure Access With Azure Active Directory](https://github.com/abennie2010/SecureAccessWithAzureActiveDirectory/tree/main)
+  - [Perform Vulnerability Analysis And Penetration Testing/Secure Information Using Symmetric Encryption]
 
 
     
