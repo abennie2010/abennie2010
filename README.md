@@ -4,8 +4,8 @@
 
   - [Active Directory Home Lab](https://github.com/abennie2010/ActiveDirectoryLab/tree/main)
   - [Implementing A SOC And Honeynet In Azure]
-  - [Secure Access With Azure Active Directory]
-  - [Perform Vulnerability Analysis And Penetration Testing/Secure Information Using Symmetric Encryption]
+  - [Secure Access With Azure Active Directory](https://github.com/abennie2010/ActiveDirectoryLab/tree/main)
+  - [Perform Vulnerability Analysis And Penetration Testing/Secure Information Using Symmetric Encryption](https://github.com/abennie2010/ActiveDirectoryLab/tree/main)
 
 
     
@@ -27,7 +27,7 @@
 
 
 
-[linkedin]:www.linkedin.com/in/drewb6
+[linkedin]:(www.linkedin.com/in/drewb6)
 
 
 <!--
