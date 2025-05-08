@@ -4,7 +4,7 @@
 
   - [Implementing A SOC And Honeynet In Azure]
   - [Secure Access With Azure Active Directory](https://github.com/abennie2010/SecureAccessWithAzureActiveDirectory/tree/main)
-  - [Perform Vulnerability Analysis And Penetration Testing/Secure Information Using Symmetric Encryption]
+  - [Perform Vulnerability Analysis And Penetration Testing/Secure Information Using Symmetric Encryption](https://github.com/abennie2010/PerformVulnerabilityAnalysisAndPenetrationTesting-SecureInformationUsingSymmetricEncryption/tree/main)
 
 
     
